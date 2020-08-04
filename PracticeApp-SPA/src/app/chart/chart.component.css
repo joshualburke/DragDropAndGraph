@@ -1,0 +1,9 @@
+.outer-div {
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+  }
+
+.inner-div {
+  width: 500px;
+}
